@@ -1,0 +1,22 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsVoz/DIG4503.git"
+  },
+  "author": "Matt Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsVoz/DIG4503/issues"
+  },
+  "homepage": "https://github.com/itsVoz/DIG4503#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
