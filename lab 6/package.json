@@ -1,0 +1,25 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "lab6: Express Static Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsVoz/DIG4503.git"
+  },
+  "author": "Matt Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsVoz/DIG4503/issues"
+  },
+  "homepage": "https://github.com/itsVoz/DIG4503#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.8.0",
+    "nodemon": "^2.0.7"
+  }
+}
