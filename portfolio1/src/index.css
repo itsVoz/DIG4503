@@ -1,0 +1,17 @@
+body {
+  margin-bottom: 2%;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+
+button {
+  margin: 1em;
+  padding: 1em;
+  background-color: #4a9eb1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
