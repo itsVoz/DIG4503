@@ -1,6 +1,6 @@
 // Importing Required components
 import React, { Component } from 'react';
-import FarmerImage from '../Farmer.jpg'
+import FarmerImage from '../FarmerImage.jpg'
 
 // Creating a new class component Farmer
 class Farmer extends Component {
@@ -27,7 +27,7 @@ class Farmer extends Component {
     render(){
         return(
             <div>
-                <img scr={FarmerImage} width="300" height="300" alt="image of the farmer"/>
+                <img src={FarmerImage} width="300" height="300" alt="farmer with a hat!"/>
                 <div>
                     <button onClick={this.greetingFarmer}>
                         Talk to the Farmer
